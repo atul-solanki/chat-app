@@ -25,7 +25,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/my-react-chat-app.git
+   git clone https://github.com/atul-solanki/chat-app.git
    ```
 
 2. Navigate to the project directory:
@@ -110,7 +110,8 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 Atul Solanki
 
 
-### Have a look at the project via this link : https://todo-list-react-app-zeta.vercel.app/
+### Have a look at the project via this link : https://react-chat-app-atul-solankis-projects.vercel.app/
 
 ## Preview of project
-![homepage](https://github.com/atul-solanki/todo_react_app/assets/119615683/fe26bc04-56fb-4715-ac09-dc4bc5c4cd9e)
+![homepage](https://github.com/user-attachments/assets/89b0eca1-3c38-42e6-a6b5-5e788464831f)
+![conversation](https://github.com/user-attachments/assets/e864e832-f8ca-4c33-ad44-a540d044d568)
